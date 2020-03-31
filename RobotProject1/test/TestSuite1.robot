@@ -24,10 +24,14 @@ MyThirdTest
 
 MyFourthTest
     Log    I am inside 4th test
+    
+MyMaster
+    Log    I am Master
 
 MyBranch1
     Log    I am inside branch1
     Log    Edit a little on Github, :))
+    Log    add keke
     
 FirstSeleniumTest2
     Open Browser    https://www.google.com    Chrome
