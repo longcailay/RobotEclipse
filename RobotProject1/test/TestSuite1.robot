@@ -25,6 +25,8 @@ MyThirdTest
 MyFourthTest
     Log    I am inside 4th test
 
+MyBranch1
+    Log    I am inside branch1
     
 FirstSeleniumTest2
     Open Browser    https://www.google.com    Chrome
