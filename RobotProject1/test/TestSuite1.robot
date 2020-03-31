@@ -20,8 +20,10 @@ MySecondTest
     Remove Tags     regression1
  
 MyThirdTest
-    Log    I am inside 2rd test
-    
+    Log    I am inside 3rd test
+
+MyFourthTest
+    Log    I am inside 4th test
 
     
 FirstSeleniumTest2
