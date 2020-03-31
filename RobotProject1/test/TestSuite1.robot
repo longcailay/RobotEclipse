@@ -24,6 +24,9 @@ MyThirdTest
 
 MyFourthTest
     Log    I am inside 4th test
+    
+MyMaster
+    Log    I am Master
 
     
 FirstSeleniumTest2
