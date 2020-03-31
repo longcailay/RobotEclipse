@@ -27,6 +27,7 @@ MyFourthTest
 
 MyBranch1
     Log    I am inside branch1
+    Log    Edit a little on Github, :))
     
 FirstSeleniumTest2
     Open Browser    https://www.google.com    Chrome
